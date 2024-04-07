@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>PassIN</h2>
+  <h2>Web</h2>
 </div>
 
 ## Description
